@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Fernand William Citra 👋</h1>
+<h1 align="center">Hi, I'm Fernand William Citra</h1>
 <h3 align="center">Full-stack software engineer leading digital transformation at one of the largest insurance agency in Indonesia, and doing some freelance gig on the side</h3>
 
 <p align="center">
@@ -8,11 +8,11 @@
 ---
 
 ## About Me
-- 💼 Founding Engineer at PRUaini Group
-- 🌏 Based in Medan, Indonesia
-- 🛠️ Also freelancing building field sales tools, fully remote
-- 📈 Shipped infra that 500 sales reps rely on daily
-- 🔍 Currently looking for remote roles to complement my hybrid schedule
+- Founding Engineer at PRUaini Group
+- Based in Medan, Indonesia
+- Also freelancing building field sales tools, fully remote
+- Shipped infra that 500 sales reps rely on daily
+- Currently looking for remote roles to complement my hybrid schedule
 
 ---
 
