@@ -12,22 +12,34 @@
 - 🌏 Based in Medan, Indonesia
 - 🛠️ Also freelancing building field sales tools, fully remote
 - 📈 Shipped infra that 500 sales reps rely on daily
-- 🔍 Currently looking for remote roles to complement 
+- 🔍 Currently looking for remote roles to complement my hybrid schedule
 
 ---
 
 ## Tech Stack
-**Languages:** ![](https://skillicons.dev/icons?i=ts,js)
-**Frontend:** ![](https://skillicons.dev/icons?i=react,nextjs,tailwind)
-**Backend:** ![](https://skillicons.dev/icons?i=nestjs,nodejs,express,postgres,supabase,redis)
-**DevOps:** ![](https://skillicons.dev/icons?i=git,github,docker,gcp,vercel)
+
+**Languages**
+<br>
+![](https://skillicons.dev/icons?i=ts,js)
+
+**Frontend**
+<br>
+![](https://skillicons.dev/icons?i=react,nextjs,tailwind)
+
+**Backend**
+<br>
+![](https://skillicons.dev/icons?i=nestjs,nodejs,express,postgres,supabase,redis)
+
+**DevOps**
+<br>
+![](https://skillicons.dev/icons?i=git,github,docker,gcp,vercel)
 
 ---
 
 ## Featured Work
 
 **PRUaini Portal** — production sales portal for Indonesia's largest insurance agency in Medan
-> NestJS · React · PostgreSQL · Docker · Google Cloud · Redis · JWT 
+> NestJS · React · PostgreSQL · Docker · Google Cloud · Redis · JWT
 
 **Field Sales Activity Manager** — activity tracking app used daily by 6 managers
 > Next.js · Supabase · PostgreSQL · Vercel
@@ -39,5 +51,3 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=fernandwill&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandwill&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
