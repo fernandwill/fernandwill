@@ -18,13 +18,13 @@
 
 ## Tech Stack
 <!-- Language -->
-![](https://skillicons.dev/icons?i=ts,js)
+![](https://skillicons.dev/icons?i=ts,js,java&theme=dark)
 <!-- Frontend -->
-![](https://skillicons.dev/icons?i=react,nextjs,tailwind)
+![](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark)
 <!-- Backend -->
-![](https://skillicons.dev/icons?i=nestjs,nodejs,express,postgres,supabase,redis,nginx)
+![](https://skillicons.dev/icons?i=spring,nestjs,nodejs,express,postgres,supabase,redis,nginx&theme=dark)
 <!-- Platform and Tools -->
-![](https://skillicons.dev/icons?i=git,github,docker,gcp,vercel,figma,notion,postman,xd)
+![](https://skillicons.dev/icons?i=git,github,docker,gcp,vercel,figma,notion,postman,xd&theme=dark)
 
 ---
 
