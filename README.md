@@ -19,15 +19,12 @@
 ## Tech Stack
 <!-- Language -->
 ![](https://skillicons.dev/icons?i=ts,js)
-
 <!-- Frontend -->
 ![](https://skillicons.dev/icons?i=react,nextjs,tailwind)
-
 <!-- Backend -->
 ![](https://skillicons.dev/icons?i=nestjs,nodejs,express,postgres,supabase,redis,nginx)
-
 <!-- Platform and Tools -->
-![](https://skillicons.dev/icons?i=git,github,docker,gcp,vercel,figma,notion,slack,postman,xd)
+![](https://skillicons.dev/icons?i=git,github,docker,gcp,vercel,figma,notion,postman,xd)
 
 ---
 
