@@ -31,10 +31,13 @@
 ## Featured Work
 
 **PRUaini Portal** — production sales portal for Indonesia's largest insurance agency in Medan
-> NestJS · React · PostgreSQL · Docker · Google Cloud · Redis · JWT
+> NestJS · React · PostgreSQL · Docker · Google Cloud · Redis · JWT · GitHub Actions CI/CD
 
 **Field Sales Activity Manager** — activity tracking app used daily by 6 managers
-> Next.js · Supabase · PostgreSQL · Vercel
+> Next.js · Supabase · PostgreSQL · Vercel · Vercel CI/CD
+
+**Capybara's Dashboard** — badminton match management platform tracking 30 active users, 50+ matches, 130+ hours, and 217 unique players
+> Next.js · Supabase · PostgreSQL · Vercel · Vercel CI/CD
 
 ---
 
