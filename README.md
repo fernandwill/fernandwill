@@ -18,20 +18,9 @@
 
 ## Tech Stack
 
-**Languages**
-<br>
 ![](https://skillicons.dev/icons?i=ts,js)
-
-**Frontend**
-<br>
 ![](https://skillicons.dev/icons?i=react,nextjs,tailwind)
-
-**Backend**
-<br>
 ![](https://skillicons.dev/icons?i=nestjs,nodejs,express,postgres,supabase,redis)
-
-**DevOps**
-<br>
 ![](https://skillicons.dev/icons?i=git,github,docker,gcp,vercel)
 
 ---
