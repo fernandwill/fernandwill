@@ -16,7 +16,7 @@
 
 ---
 
-## Tech Stack
+## Tech Stack, Tools, Platforms
 <!-- Language -->
 ![](https://skillicons.dev/icons?i=ts,js,java&theme=dark)
 <!-- Frontend -->
