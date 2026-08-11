@@ -30,8 +30,8 @@
 
 ## Featured Work
 
-**PRUaini Portal** — production sales portal for Indonesia's largest insurance agency in Medan
-> NestJS · React · PostgreSQL · Docker · Google Cloud · Redis · JWT · GitHub Actions CI/CD
+**PRUaini Portal** — AI-powered internal platform for one of Indonesia's largest insurance agency
+> NestJS · React · PostgreSQL · Docker · Google Cloud · Redis · JWT · GitHub Actions CI/CD · RAG 
 
 **Field Sales Activity Manager** — activity tracking app used daily by 6 managers
 > Next.js · Supabase · PostgreSQL · Vercel · Vercel CI/CD
