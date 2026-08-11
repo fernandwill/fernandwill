@@ -30,13 +30,13 @@
 
 ## Featured Work
 
-**PRUaini Portal** — AI-powered internal platform for one of Indonesia's largest insurance agency
+**PRUaini Portal**, AI-powered internal platform for one of Indonesia's largest insurance agency
 > NestJS · React · PostgreSQL · Docker · Google Cloud · Redis · JWT · GitHub Actions CI/CD · RAG 
 
-**Field Sales Activity Manager** — activity tracking app used daily by 6 managers
+**Field Sales Activity Manager**, activity tracking app with 11 active business users
 > Next.js · Supabase · PostgreSQL · Vercel · Vercel CI/CD
 
-**Capybara's Dashboard** — badminton match management platform tracking 30 active users, 50+ matches, 130+ hours, and 217 unique players
+**Capybara's Dashboard**, badminton match management platform tracking 30 active users, 50+ matches, 130+ hours, and 217 unique players
 > Next.js · Supabase · PostgreSQL · Vercel · Vercel CI/CD
 
 ---
