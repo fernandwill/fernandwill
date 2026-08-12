@@ -36,7 +36,7 @@
 **Field Sales Activity Manager**, activity tracking app with 11 active business users
 > Next.js · Supabase · PostgreSQL · Vercel · Vercel CI/CD
 
-**Capybara's Dashboard**, badminton match management platform tracking 30 active users, 50+ matches, 130+ hours, and 217 unique players
+**Capybara's Dashboard**, badminton match management platform tracking 30 active users, 66 matches, 182 hours, and 217 unique players
 > Next.js · Supabase · PostgreSQL · Vercel · Vercel CI/CD
 
 ---
