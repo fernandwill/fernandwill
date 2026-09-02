@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fernand William Citra</h1>
-<h3 align="center">Full-stack software engineer leading digital transformation at one of the largest insurance agency in Indonesia, and doing some freelance gig on the side</h3>
+<h3 align="center">Full-stack software engineer leading digital transformation at one of the largest insurance agency in Indonesia, and doing some random gig on the side</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fernandwill&label=Profile%20Views&color=7c3aed&style=flat" />
