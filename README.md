@@ -10,7 +10,7 @@
 ## About Me
 - Founding Engineer at PRUaini Group
 - Based in Medan, Indonesia
-- Also freelancing building field sales tools, fully remote
+- Also building two secrets, freelancing building field sales tools, fully remote for international clients
 - Shipped infra that 500 sales reps rely on daily
 - Currently looking for remote roles to complement my hybrid schedule
 
