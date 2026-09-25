@@ -22,11 +22,17 @@ I build products from idea to production—from backend architecture and data mo
 - Building systems used daily by **500+ insurance sales representatives** (or as we call them, agent).
 - Freelance engineer building field-sales tools for international clients
 
+## Technical Focus
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,react,nextjs,nestjs,nodejs,spring,postgres,redis,docker,gcp,vercel&theme=dark" alt="TypeScript, JavaScript, Java, React, Next.js, NestJS, Node.js, Spring, PostgreSQL, Redis, Docker, Google Cloud, and Vercel" />
+</p>
+
 ## What I Build
 
-- Internal platforms that simplify complex business workflows
+- Internal platforms that simplify and unify business workflows in one app
 - Full-stack products for sales and operations teams
-- Real-time applications with strong operational interfaces
+- Real-time applications with easy to understand interfaces
 - AI-assisted learning management tools using retrieval-augmented generation
 - Scalable infrastructure and deployment workflows
 
@@ -59,12 +65,6 @@ Real-time platform for organizing weekly badminton sessions.
 - Includes automated court assignment, randomizer for player assignment, authentication, scheduled jobs, and printable match sheets
 - [Live demo](https://capybara-dashboard.vercel.app)
 - **Stack:** Next.js, React, TypeScript, PostgreSQL, Prisma, Supabase
-
-## Technical Focus
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,react,nextjs,nestjs,nodejs,spring,postgres,redis,docker,gcp,vercel&theme=dark" alt="TypeScript, JavaScript, Java, React, Next.js, NestJS, Node.js, Spring, PostgreSQL, Redis, Docker, Google Cloud, and Vercel" />
-</p>
 
 ---
 
