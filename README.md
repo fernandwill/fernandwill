@@ -30,7 +30,7 @@
 ## Featured Work
 
 ### PRUaini Portal
-**Founding engineer building an AI-assisted operations and learning management platform for a major Indonesian insurance agency.**
+**Building an AI-assisted operations and learning management platform for a major Indonesian insurance agency.**
 
 - Supports workflows used daily by **500+ sales representatives**
 - Built the platform with full ownership, end-to-end across product, backend, infrastructure, and deployment
