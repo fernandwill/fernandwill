@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fernand William Citra</h1>
 
 <p align="center">
-  Currently founding engineer building production software for insurance, field operations, and growing communities.
+  Founding engineer solving real business problems by building production software for insurance, field operations, and growing communities.
 </p>
 
 <p align="center">
@@ -14,12 +14,12 @@
 
 ## About
 
-I'm a full-stack software engineer based in Medan, Indonesia.
+I'm a full-stack software engineer based in Medan, Indonesia, focused on turning real business challenges into practical, reliable software.
 
-I build products from idea to production, from backend architecture, data models to polished interfaces, infrastructure, and deployment.
+I build products from idea to production, from backend architecture and data models to polished interfaces, infrastructure, and deployment.
 
 - Founding Engineer at PRUaini Group
-- Building systems used daily by **500+ insurance sales representatives** (or as we call them, agent).
+- Building systems used daily by **500+ insurance sales representatives** (or as we call them, agents)
 - Freelance engineer building field-sales tools for international clients
 
 ## Technical Focus
@@ -32,7 +32,7 @@ I build products from idea to production, from backend architecture, data models
 
 - Internal platforms that simplify and unify business workflows
 - Full-stack products for sales and operations teams
-- Real-time applications with easy to understand interfaces
+- Real-time applications with easy-to-understand interfaces
 - AI-assisted learning management tools using retrieval-augmented generation
 - Scalable infrastructure and deployment workflows
 
@@ -43,7 +43,7 @@ I build products from idea to production, from backend architecture, data models
 AI-assisted operations and learning management platform for a major Indonesian insurance agency.
 
 - Built and operated the platform end-to-end with full ownership
-- Supports workflows used by **500+ sales representatives** (agents).
+- Supports workflows used by **500+ sales representatives** (agents)
 - Combines internal operations tooling with retrieval-augmented generation
 - **Stack:** NestJS, React, PostgreSQL, Redis, Docker, Google Cloud, Groq
 
@@ -69,5 +69,5 @@ Real-time platform for organizing weekly badminton sessions.
 ---
 
 <p align="center">
-  <i>Designing, building, and operating software that solves real business problems.</i>
+  <i>Building practical software that solves real business problems and creates measurable impact.</i>
 </p>
