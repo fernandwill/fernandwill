@@ -32,12 +32,12 @@
 ### PRUaini Portal
 **Building an AI-assisted operations and learning management platform for a major Indonesian insurance agency.**
 
-- Supports workflows used daily by **500+ sales representatives**
+- Supports workflows used daily by **500+ sales representatives (or we call them, agents).**
 - Built the platform with full ownership, end-to-end across product, backend, infrastructure, and deployment
 - Designed with NestJS, React, PostgreSQL, Redis, Docker, Google Cloud, and RAG
 
 ### Field Sales Activity Manager
-**Production field-operations software built for sales teams and international clients.**
+**Production field-operations software built for sales teams.**
 
 - Replaced fragmented activity tracking with a centralized workflow
 - Used by an active team to manage field activity and reporting
