@@ -29,14 +29,27 @@
 
 ## Featured Work
 
-**PRUaini Portal**, AI-powered internal platform for one of Indonesia's largest insurance agency
-> NestJS · React · PostgreSQL · Docker · Google Cloud · Redis · JWT · GitHub Actions CI/CD · RAG 
+### PRUaini Portal
+**Founding engineer building an AI-assisted operations and learning management platform for a major Indonesian insurance agency.**
 
-**Field Sales Activity Manager**, activity tracking app with 11 active business users
-> Next.js · Supabase · PostgreSQL · Vercel · Vercel CI/CD
+- Supports workflows used daily by **500+ sales representatives**
+- Built the platform with full ownership, end-to-end across product, backend, infrastructure, and deployment
+- Designed with NestJS, React, PostgreSQL, Redis, Docker, Google Cloud, and RAG
 
-**CapyHub**, real-time badminton match management platform with randomizer, court management system, tracking 66 matches, 182 hours, and 217 unique players
-> Next.js · Supabase · PostgreSQL · Vercel · Vercel CI/CD
+### Field Sales Activity Manager
+**Production field-operations software built for sales teams and international clients.**
+
+- Replaced fragmented activity tracking with a centralized workflow
+- Used by an active team to manage field activity and reporting
+- Built with Next.js, Supabase, PostgreSQL, and Vercel
+
+### CapyHub
+**Open-source real-time platform for running weekly badminton sessions.**
+
+- Manages players, courts, matches, payments, analytics, and printable match sheets
+- Tracks **200+ players, 60+ matches, and 180+ hours of play**
+- Includes real-time synchronization, randomizer for player-matching, automated court assignment, authentication, and scheduled jobs
+- Built with Next.js, React, TypeScript, PostgreSQL, Prisma, Supabase, and Vercel
 
 ---
 
