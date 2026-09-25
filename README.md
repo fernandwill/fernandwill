@@ -16,7 +16,7 @@
 
 I'm a full-stack software engineer based in Medan, Indonesia.
 
-I build products from idea to production—from backend architecture and data models to polished interfaces, infrastructure, and deployment.
+I build products from idea to production, from backend architecture, data models to polished interfaces, infrastructure, and deployment.
 
 - Founding Engineer at PRUaini Group
 - Building systems used daily by **500+ insurance sales representatives** (or as we call them, agent).
@@ -25,12 +25,12 @@ I build products from idea to production—from backend architecture and data mo
 ## Technical Focus
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,react,nextjs,nestjs,nodejs,spring,postgres,redis,docker,gcp,vercel&theme=dark" alt="TypeScript, JavaScript, Java, React, Next.js, NestJS, Node.js, Spring, PostgreSQL, Redis, Docker, Google Cloud, and Vercel" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,react,nextjs,nestjs,nodejs,spring,flutter,postgres,redis,docker,gcp,vercel&theme=dark" alt="TypeScript, JavaScript, Java, React, Next.js, NestJS, Node.js, Spring, Flutter, PostgreSQL, Redis, Docker, Google Cloud, and Vercel" />
 </p>
 
 ## What I Build
 
-- Internal platforms that simplify and unify business workflows in one app
+- Internal platforms that simplify and unify business workflows
 - Full-stack products for sales and operations teams
 - Real-time applications with easy to understand interfaces
 - AI-assisted learning management tools using retrieval-augmented generation
