@@ -14,9 +14,9 @@
 
 ## About
 
-I'm a full-stack software engineer based in Medan, Indonesia, focused on turning real business challenges into practical, reliable software.
+I'm a full-stack software engineer based in Medan, Indonesia.
 
-I build products from idea to production, from backend architecture and data models to polished interfaces, infrastructure, and deployment.
+Focused on turning real business challenges into practical, reliable software.
 
 - Founding Engineer at PRUaini Group
 - Building systems used daily by **500+ insurance sales representatives** (or as we call them, agents)
@@ -57,13 +57,13 @@ Production workflow software for managing field-sales activity and reporting.
 - **Stack:** Next.js, Supabase, PostgreSQL, Vercel
 
 ### [CapyHub](https://github.com/fernandwill/capyhub)
+# [Live App](https://capyhub.vercel.app)
 
 Real-time platform for organizing weekly badminton sessions.
 
 - Tracks **200+ players, 65+ matches, and 180+ hours of playtime**
 - Manages players, courts, matches, payments, and analytics
 - Includes automated court assignment, randomizer for player assignment, authentication, scheduled jobs, and printable match sheets
-- [Live demo](https://capybara-dashboard.vercel.app)
 - **Stack:** Next.js, React, TypeScript, PostgreSQL, Prisma, Supabase
 
 ---
