@@ -56,8 +56,7 @@ Production workflow software for managing field-sales activity and reporting.
 - Built for an international client
 - **Stack:** Next.js, Supabase, PostgreSQL, Vercel
 
-### [CapyHub](https://github.com/fernandwill/capyhub)
-# [Live App](https://capyhub.vercel.app)
+### [CapyHub](https://github.com/fernandwill/capyhub) | [Live App](https://capyhub.vercel.app)
 
 Real-time platform for organizing weekly badminton sessions.
 
