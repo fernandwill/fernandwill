@@ -1,61 +1,83 @@
 <h1 align="center">Hi, I'm Fernand William Citra</h1>
-<h3 align="center">Full-stack software engineer leading digital transformation at one of the largest insurance agency in Indonesia, and doing some random gig on the side</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fernandwill&label=Profile%20Views&color=7c3aed&style=flat" />
+  Founding engineer building production software for insurance, field operations, and real-time communities.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fernandwill/">LinkedIn</a>
+  ·
+  <a href="https://fernandwill.github.io/portfolio-website/">Portfolio</a>
+  ·
+  <a href="mailto:fernandwilliam23@gmail.com">Email</a>
 </p>
 
 ---
 
-## About Me
+## About
+
+I'm a full-stack software engineer based in Medan, Indonesia.
+
+I build products from idea to production—from backend architecture and data models to polished interfaces, infrastructure, and deployment.
+
 - Founding Engineer at PRUaini Group
-- Based in Medan, Indonesia
-- Also building in secret, freelancing building field sales tools, fully remote for international clients
-- Shipped infra that 500 sales reps rely on daily
+- Building systems used daily by **500+ insurance sales representatives**
+- Freelance engineer building field-sales tools for international clients
+- Interested in reliable systems, operational UX, and practical AI applications
 
----
+## What I Build
 
-## Tech Stack, Tools, Platforms
-<!-- Language -->
-![](https://skillicons.dev/icons?i=ts,js,java&theme=dark)
-<!-- Frontend -->
-![](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark)
-<!-- Backend -->
-![](https://skillicons.dev/icons?i=spring,nestjs,nodejs,express,postgres,supabase,redis,nginx&theme=dark)
-<!-- Platform and Tools -->
-![](https://skillicons.dev/icons?i=git,github,docker,gcp,vercel,figma,notion,postman,xd&theme=dark)
-
----
+- Internal platforms that simplify complex business workflows
+- Full-stack products for sales and operations teams
+- Real-time applications with strong operational interfaces
+- AI-assisted tools using retrieval-augmented generation
+- Scalable infrastructure and deployment workflows
 
 ## Featured Work
 
 ### PRUaini Portal
-**Building an AI-assisted operations and learning management platform for a major Indonesian insurance agency.**
 
-- Supports workflows used daily by **500+ sales representatives (or we call them, agents).**
-- Built the platform with full ownership, end-to-end across product, backend, infrastructure, and deployment
-- Designed with NestJS, React, PostgreSQL, Redis, Docker, Google Cloud, and RAG
+AI-assisted operations platform for a major Indonesian insurance agency.
+
+- Built and operated the platform end-to-end
+- Supports workflows used by **500+ sales representatives**
+- Combines internal operations tooling with retrieval-augmented generation
+- **Stack:** NestJS, React, PostgreSQL, Redis, Docker, Google Cloud
 
 ### Field Sales Activity Manager
-**Production field-operations software built for sales teams.**
 
-- Replaced fragmented activity tracking with a centralized workflow
-- Used by an active team to manage field activity and reporting
-- Built with Next.js, Supabase, PostgreSQL, and Vercel
+Production workflow software for managing field-sales activity and reporting.
 
-### CapyHub
-**Open-source real-time platform for running weekly badminton sessions.**
+- Centralizes activity tracking for an active business team
+- Replaces fragmented reporting with a structured operational workflow
+- Built for an international client
+- **Stack:** Next.js, Supabase, PostgreSQL, Vercel
 
-- Manages players, courts, matches, payments, analytics, and printable match sheets
-- Tracks **200+ players, 60+ matches, and 180+ hours of play**
-- Includes real-time synchronization, randomizer for player-matching, automated court assignment, authentication, and scheduled jobs
-- Built with Next.js, React, TypeScript, PostgreSQL, Prisma, Supabase, and Vercel
+### [CapyHub](https://github.com/fernandwill/capyhub)
+
+Real-time platform for organizing weekly badminton sessions.
+
+- Tracks **217 players, 66 matches, and 182 hours of play**
+- Manages players, courts, matches, payments, and analytics
+- Includes automated court assignment, authentication, scheduled jobs, and printable match sheets
+- [Live demo](https://capybara-dashboard.vercel.app)
+- **Stack:** Next.js, React, TypeScript, PostgreSQL, Prisma, Supabase
+
+## Technical Focus
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,react,nextjs,nestjs,nodejs,spring,postgres,redis,docker,gcp,vercel&theme=dark" alt="TypeScript, JavaScript, Java, React, Next.js, NestJS, Node.js, Spring, PostgreSQL, Redis, Docker, Google Cloud, and Vercel" />
+</p>
+
+## Currently Exploring
+
+- AI-assisted workflows for internal business tools
+- Better patterns for real-time product architecture
+- Product analytics and operational visibility
+- Building software that is useful beyond the demo
 
 ---
 
-## Connect
-<p>
-  <a href="https://www.linkedin.com/in/fernandwill/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://fernandwill.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:fernandwilliam23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <i>Designing, building, and operating software that solves real problems.</i>
 </p>
