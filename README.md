@@ -53,7 +53,6 @@ Production workflow software for managing field-sales activity and reporting.
 
 - Centralizes activity tracking for an active business team
 - Replaces fragmented reporting with a structured operational workflow
-- Built for an international client
 - **Stack:** Next.js, Supabase, PostgreSQL, Vercel
 
 ### <a href="https://github.com/fernandwill/capyhub" target="_blank" rel="noopener noreferrer">CapyHub</a> | <a href="https://capyhub.vercel.app" target="_blank" rel="noopener noreferrer">Live App</a>
