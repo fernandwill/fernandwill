@@ -20,7 +20,6 @@ Focused on turning real business challenges into practical, reliable software.
 
 - Founding Engineer at PRUaini Group
 - Building systems used daily by **500+ insurance sales representatives** (or as we call them, agents)
-- Freelance engineer building field-sales tools for international clients
 
 ## Technical Focus
 
