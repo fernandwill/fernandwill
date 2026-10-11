@@ -64,5 +64,5 @@ Real-time platform for organizing weekly badminton sessions.
 ---
 
 <p align="center">
-  <i>Building practical software that solves real business problems and creates measurable impact.</i>
+  <i>There is always improvements to be done.</i>
 </p>
