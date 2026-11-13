@@ -42,7 +42,7 @@ AI-assisted operations and learning management platform for a major Indonesian i
 - Built and operated the platform end-to-end with full ownership
 - Supports workflows used by **500+ sales representatives** (agents)
 - Combines internal operations tooling with retrieval-augmented generation
-- **Stack:** NestJS, React, PostgreSQL, Redis, Docker, Google Cloud, Groq, AWS Lightsail
+- **Stack:** NestJS, React, PostgreSQL, Redis, Docker, Groq, AWS Lightsail (migrated from Google Cloud)
 
 ### Field Sales Activity Manager
 
