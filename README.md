@@ -22,7 +22,7 @@ Focused on turning real business challenges into practical, reliable software.
 ## Technical Focus
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,react,nextjs,nestjs,nodejs,spring,flutter,postgres,redis,docker,gcp,vercel&theme=dark" alt="TypeScript, JavaScript, Java, React, Next.js, NestJS, Node.js, Spring, Flutter, PostgreSQL, Redis, Docker, Google Cloud, and Vercel" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,react,nextjs,nestjs,nodejs,spring,flutter,aws,gcp,vercel,postgres,redis,docker&theme=dark" alt="TypeScript, JavaScript, Java, React, Next.js, NestJS, Node.js, Spring, Flutter, PostgreSQL, Redis, Docker, Google Cloud, and Vercel" />
 </p>
 
 ## What I Build
