@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fernand William Citra</h1>
 
 <p align="center">
-  Founding engineer solving real business problems by building production software for insurance, field operations, and growing communities.
+  Doing some game modding, while solving real business problem on the side.
 </p>
 
 <p align="center">
