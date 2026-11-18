@@ -16,7 +16,7 @@ I'm a full-stack software engineer based in Medan, Indonesia.
 
 Focused on turning real business challenges into practical, reliable software.
 
-- Currently Head of Software Engineering at PRUaini Group
+- Currently Head of Information Technology at PRUaini Group
 - Building systems used daily by **~8000 insurance sales representatives** (or as we call them, agents)
 
 ## Technical Focus
