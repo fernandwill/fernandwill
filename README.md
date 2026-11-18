@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fernand William Citra</h1>
 
 <p align="center">
-  Doing some game modding, while solving real business problem on the side.
+  Head of Information Technology, building practical software for real businesses.
 </p>
 
 <p align="center">
@@ -17,12 +17,12 @@ I'm a full-stack software engineer based in Medan, Indonesia.
 Focused on turning real business challenges into practical, reliable software.
 
 - Currently Head of Information Technology at PRUaini Group
-- Building systems used daily by **~8000 insurance sales representatives** (or as we call them, agents)
+- Building systems for **~8000 insurance sales representatives** (or as we call them, agents)
 
 ## Technical Focus
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,react,nextjs,nestjs,nodejs,spring,flutter,aws,gcp,vercel,postgres,redis,docker&theme=dark" alt="TypeScript, JavaScript, Java, React, Next.js, NestJS, Node.js, Spring, Flutter, PostgreSQL, Redis, Docker, Google Cloud, and Vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,py,fastapi,nestjs,spring,postgres,redis,docker,aws,gcp&theme=dark" alt="React, Next.js, TypeScript, Tailwind CSS, Python, FastAPI, NestJS, Spring Boot, PostgreSQL, Redis, Docker, AWS, and Google Cloud" />
 </p>
 
 ## What I Build
@@ -40,9 +40,12 @@ Focused on turning real business challenges into practical, reliable software.
 AI-assisted operations and learning management platform for a major Indonesian insurance agency.
 
 - Built and operated the platform end-to-end with full ownership
-- Supports workflows used by **500+ sales representatives** (agents)
+- Built for **~8000 agents**
 - Combines internal operations tooling with retrieval-augmented generation
-- **Stack:** NestJS, React, PostgreSQL, Redis, Docker, Groq, AWS Lightsail (migrated from Google Cloud)
+- Quote engine for 17 insurance products, verified against the official premium workbooks
+- Offline PWA for quotes, PDF export and training videos, with encrypted device storage
+- RAG assistant with hybrid search, PII redaction and a 64-question evaluation suite
+- **Stack:** NestJS, React, PostgreSQL, Redis, Docker, OpenRouter, AWS Lightsail (migrated from Google Cloud)
 
 ### Field Sales Activity Manager
 
@@ -64,5 +67,5 @@ Real-time platform for organizing weekly badminton sessions.
 ---
 
 <p align="center">
-  <i>There is always improvements to be done.</i>
+  <i>There are always improvements to be done.</i>
 </p>
